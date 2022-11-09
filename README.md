@@ -9,7 +9,7 @@ Hi, I'm Francisco Viola!
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Computer+Science+Student;Software+Development;Fullstack+Wev+Development" alt="Typing SVG" /></a>
  </p>
 
-<img align="left" src="https://github.com/I-am-vishalmaurya/I-am-vishalmaurya/blob/main/cropped_image.png" alt="Unfortunately I didn't find the author of the pic, feel to open a pull request if found" width="320" />
+<img align="left" src="https://github.com/franciscoviola/franciscoviola/blob/main/code.jpg" alt="Image not found" width="320" />
 <hr>
 
 ```
